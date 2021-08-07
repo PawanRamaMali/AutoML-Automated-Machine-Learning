@@ -11,4 +11,9 @@ Automated machine learning (AutoML) represents a fundamental shift in the way or
 ![image](https://user-images.githubusercontent.com/11299574/128610406-28484289-3854-4875-b37c-8fd937139851.png)
 
 
- 
+## Why is Automated Machine Learning Important?
+
+Manually constructing a machine learning model is a multistep process that requires domain knowledge, mathematical expertise, and computer science skills – which is a lot to ask of one company, let alone one data scientist (provided you can hire and retain one). Not only that, there are countless opportunities for human error and bias, which degrades model accuracy and devalues the insights you might get from the model. Automated machine learning enables organizations to use the baked-in knowledge of data scientists without expending time and money to develop the capabilities themselves, simultaneously improving return on investment in data science initiatives and reducing the amount of time it takes to capture value.
+
+Automated machine learning makes it possible for businesses in every industry – healthcare,
+financial markets, fintech, banking, the public sector, marketing, retail, sports, manufacturing, and more – to leverage machine learning and AI technology — technology previously only available to organizations with vast resources at their disposal. By automating most of the modeling tasks necessary in order to develop and deploy machine learning models, automated machine learning enables business users to implement machine learning solutions with ease, thereby allowing an organization’s data scientists to focus on more complex problems.
